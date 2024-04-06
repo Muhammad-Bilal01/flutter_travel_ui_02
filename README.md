@@ -1,16 +1,10 @@
-# day_02_ui
+# Travel Dairy App UI
 
-A new Flutter project.
+This app will be your digital companion on all your adventures, allowing you to capture memories, jot down experiences, and share them with loved ones in a beautifully animated format. 📸✨
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+| Screen 1 | Screen 2 | Screen 3 |
+| -------- | -------- | -------- |
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+|<img src="./assets/screenshot/one.png" height="400">|<img src="./assets/screenshot/two.png" height="400">|<img src="./assets/screenshot/three.png" height="400">|
